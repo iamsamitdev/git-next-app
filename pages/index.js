@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          เริ่มใช้งานกันที่นี่ {' '}
+          เริ่มใช้งานกันที่นี่นะครับ {' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
